@@ -1,0 +1,182 @@
+[
+    {
+        "id":"0",
+        "nome":"Carlos Alberto",
+        "funcao":"Balconista",
+        "status":0
+    },
+    {
+        "id":"1",
+        "nome":"Juraci Augusto",
+        "funcao":"Entregador",
+        "status":1
+    },
+    {
+        "id":"2",
+        "nome":"Bruno Frata",
+        "funcao":"Balconista",
+        "status":1
+    },
+    {
+        "id":"3",
+        "nome":"Ademar Barroso",
+        "funcao":"Entregador",
+        "status":1
+    },
+    {
+        "id":"4",
+        "nome":"Juraci Augusto",
+        "funcao":"Entregador",
+        "status":1
+    },
+    {
+        "id":"5",
+        "nome":"Bruno Frata",
+        "funcao":"Balconista",
+        "status":1
+    },
+    {
+        "id":"6",
+        "nome":"Ademar Barroso",
+        "funcao":"Entregador",
+        "status":1
+    },
+    {
+        "id":"7",
+        "nome":"Juraci Augusto",
+        "funcao":"Entregador",
+        "status":1
+    },
+    {
+        "id":"8",
+        "nome":"Bruno Frata",
+        "funcao":"Balconista",
+        "status":1
+    },
+    {
+        "id":"9",
+        "nome":"Ademar Barroso",
+        "funcao":"Entregador",
+        "status":1
+    },
+    {
+        "id":"10",
+        "nome":"Juraci Augusto",
+        "funcao":"Entregador",
+        "status":1
+    },
+    {
+        "id":"11",
+        "nome":"Bruno Frata",
+        "funcao":"Balconista",
+        "status":1
+    },
+    {
+        "id":"12",
+        "nome":"Ademar Barroso",
+        "funcao":"Entregador",
+        "status":1
+    },
+    {
+        "id":"13",
+        "nome":"Carlos Alberto",
+        "funcao":"Balconista",
+        "status":0
+    },
+    {
+        "id":"14",
+        "nome":"Juraci Augusto",
+        "funcao":"Entregador",
+        "status":1
+    },
+    {
+        "id":"15",
+        "nome":"Bruno Frata",
+        "funcao":"Balconista",
+        "status":1
+    },
+    {
+        "id":"16",
+        "nome":"Ademar Barroso",
+        "funcao":"Entregador",
+        "status":1
+    },
+    {
+        "id":"17",
+        "nome":"Juraci Augusto",
+        "funcao":"Entregador",
+        "status":1
+    },
+    {
+        "id":"18",
+        "nome":"Bruno Frata",
+        "funcao":"Balconista",
+        "status":1
+    },
+    {
+        "id":"19",
+        "nome":"Ademar Barroso",
+        "funcao":"Entregador",
+        "status":1
+    },
+    {
+        "id":"20",
+        "nome":"Juraci Augusto",
+        "funcao":"Entregador",
+        "status":1
+    },
+    {
+        "id":"21",
+        "nome":"Bruno Frata",
+        "funcao":"Balconista",
+        "status":1
+    },
+    {
+        "id":"22",
+        "nome":"Ademar Barroso",
+        "funcao":"Entregador",
+        "status":1
+    },
+    {
+        "id":"23",
+        "nome":"Juraci Augusto",
+        "funcao":"Entregador",
+        "status":1
+    },
+    {
+        "id":"24",
+        "nome":"Bruno Frata",
+        "funcao":"Balconista",
+        "status":1
+    },
+    {
+        "id":"25",
+        "nome":"Ademar Barroso",
+        "funcao":"Entregador",
+        "status":1
+    },
+    {
+        "id":"26",
+        "nome":"Ademar Barroso",
+        "funcao":"Entregador",
+        "status":1
+    },
+    {
+        "id":"27",
+        "nome":"Ademar Barroso",
+        "funcao":"Entregador",
+        "status":1
+    },
+    {
+        "id":"28",
+        "nome":"Ademar Barroso",
+        "funcao":"Entregador",
+        "status":1
+    },
+    {
+        "id":"29",
+        "nome":"Ademar Barroso",
+        "funcao":"Entregador",
+        "status":1
+    }
+]
